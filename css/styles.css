@@ -1,0 +1,10 @@
+#encabezado {
+    color: red;
+    background-color: aliceblue;
+    height: 80px;
+}
+#datos {
+    color: red;
+    background-color: rgb(97, 72, 239);
+    height: 80px;
+}
